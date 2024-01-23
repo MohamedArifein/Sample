@@ -8,7 +8,7 @@ public class SampleApplicationController {
 	
 	@GetMapping
 	public String getMap() {
-		return "Hello World...";
+		return "Hello World..., Jenkins by Mohamed Arifein";
 	}
 
 }
